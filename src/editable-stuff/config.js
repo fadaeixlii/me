@@ -9,7 +9,7 @@ const mainBody = {
     firstName: "Mohammad",
     middleName: "",
     lastName: "Mohammad Khani",
-    message: " Hi iam a simple person.👋\nInterested for learning 💻 , experiment 👨‍💼 and team working 🤝.\nI love Imam Mahdi 💓.  ",
+    message: " Hi iam a simple person.👋\nInterested for learning 💻 , experiment 👨‍💼 and team working 🤝.\n",
     icons: [{
             image: "fa-github",
             url: "https://github.com/fadaeixlii",
